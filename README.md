@@ -1,3 +1,8 @@
+# Purpose
+The purpose of this project is to collect, work with, and clean a data set. The goal is to prepare tidy data that can be used for later analysis.
+
+The script outputs a txt file containing a tidy data set.
+
 # About the data
 The data is is derived from the [Human Activity Recognition Using Smartphones Data Set](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
 
@@ -14,3 +19,6 @@ The data is is derived from the [Human Activity Recognition Using Smartphones Da
 2. Download the run_analysis.R file in your working directory and run it in any R command shell or Rstudio session.
 
 3. It should create a txt file called tidydata.txt in your working directory.
+
+# Codebook
+See in CodeBook.md what changes the script does and som more information about the tidy data set.
