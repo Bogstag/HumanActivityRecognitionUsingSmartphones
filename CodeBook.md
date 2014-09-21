@@ -39,14 +39,14 @@ Now we have a tidy data set and a file. See run_analysis.R file (row 36-38).
 
 # The tidydata data set
 
-The tidydata is average of each variable for each activity and each subject from the origninal data. Thus the column names mean and std is from original data and everything in this data is average of that data.
+The tidydata is average of each variable for each activity and each subject from the origninal data. Thus the column names mean and std is from original data and left for reference purpose, everything in this data set is average of that data.
 
 ##Variable list and descriptions
 
 Variable name    | Description
 -----------------|------------
 subject          | ID the subject who performed the activity for each window sample. Its range is from 1 to 30.
-activity         | Activity name (WALKING,WALKING_UPSTAIRS,WALKING_DOWNSTAIRS,SITTING,STANDING,LAYING)
+activity         | Activity name (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING)
 tBodyAcc-mean()-X | Mean time for acceleration of body for X direction.
 tBodyAcc-mean()-Y | Mean time for acceleration of body for Y direction.
 tBodyAcc-mean()-Z | Mean time for acceleration of body for Z direction.
