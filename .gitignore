@@ -1,5 +1,6 @@
 # History files
 .Rhistory
+.Rproj.user
 
 # Example code in package build process
 *-Ex.R
@@ -16,7 +17,8 @@
 .LSOverride
 
 # Icon must ends with two \r.
-Icon
+Icon
+
 
 # Thumbnails
 ._*
